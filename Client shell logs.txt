@@ -1,0 +1,11 @@
+hayk@MacBook-Pro-Ajk ~> gcc tcp_client.c                                                                                                                            
+hayk@MacBook-Pro-Ajk ~> ./client                                                                                                                                    
+Socket successfully created..
+connected to the server..
+Enter host and uri: wiki.cs.hse.ru /Differential_Equations_2021
+Enter host and uri: wiki.cs.hse.ru /Statistics_4mr_2021-22     
+Enter host and uri: wiki.cs.hse.ru /Optimization_Methods_2022
+Enter host and uri: wiki.cs.hse.ru /Differential_Equations_2021
+Enter host and uri: wiki.cs.hse.ru /Differential_Equations_2021
+Enter host and uri: wiki.cs.hse.ru /Statistics_4mr_2021-22
+Enter host and uri: ^C⏎                                                                                                                                             hayk@MacBook-Pro-Ajk ~ [SIGINT]> 
